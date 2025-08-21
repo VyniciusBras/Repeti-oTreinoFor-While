@@ -1,3 +1,0 @@
-function mostrarImparesEntreMeN() {
-    return null;
-}

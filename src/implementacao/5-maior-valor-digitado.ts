@@ -1,3 +1,0 @@
-function mostrarMaiorValor() {
-    return null;
-}

@@ -1,3 +1,0 @@
-function mostrarNumerosAteN() {
-    return null;
-}
