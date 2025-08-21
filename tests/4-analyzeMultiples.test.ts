@@ -1,4 +1,4 @@
-import {analyzeMultiples} from "../implementacao/4-analyzeMultiples";
+import {analyzeMultiples} from "../src/implementacao/4-analyzeMultiples";
 
 describe('analiseMultiplos', () => {
     test('deve contar corretamente para [10, 15, 30, -1]', () => {

@@ -1,4 +1,4 @@
-import {showNumbersBetween} from '../implementacao/2-numbersMToN';
+import {showNumbersBetween} from '../src/implementacao/2-numbersMToN';
 
 describe('showNumbersBetween', () => {
     test('deve retornar números entre 3 e 7', () => {

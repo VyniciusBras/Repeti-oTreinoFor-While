@@ -1,4 +1,4 @@
-import {showNumbersToN} from '../implementacao/1-showNumbersToN';
+import {showNumbersToN} from '../src/implementacao/1-showNumbersToN';
 
 describe('showNumbersToN', () => {
     test('deve retornar um array com números de 0 a 5', () => {

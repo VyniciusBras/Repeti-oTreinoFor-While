@@ -1,4 +1,4 @@
-import { avarage } from '../implementacao/5-average'; 
+import { avarage } from '../src/implementacao/5-average'; 
 
 describe('mediaNotas', () => {
     test('caso [8, 7, 9], [5, 6, 5], [3, 4, 2]', () => {

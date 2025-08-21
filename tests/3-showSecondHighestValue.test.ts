@@ -1,4 +1,4 @@
-import { showSecondHighestValue } from '../implementacao/3-showSecondHighestValue';
+import { showSecondHighestValue } from '../src/implementacao/3-showSecondHighestValue';
 
 describe('showSecondHighestValue', () => {
     test('deve retornar o segundo maior valor de um array de números', () => {
